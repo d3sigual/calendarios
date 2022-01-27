@@ -1,0 +1,119 @@
+@charset "UTF-8";
+
+body {
+	background-color: #95E1FF;
+}
+
+div.enero {
+	padding: 10px 75px 10px 75px;
+	background-color: lightyellow;
+	display: block;
+	border: 1px solid black;
+	margin: 10px;
+	width: 25%;
+}
+
+div.enero th {
+	width: 3em;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+}
+
+div.enero td {
+	width: 3em;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+}
+
+div.enero caption {
+	letter-spacing: 0.25em;
+	font-weight: bold;
+	font-size: 1.25em;
+	font-style: italic;
+}
+
+div.enero table {
+	border-collapse: collapse;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+div.febrero {
+	padding: 10px 75px 10px 75px;
+	background-color: lightyellow;
+	display: block;
+	border: 1px solid black;
+	margin: 10px;
+	width: 25%;
+	font-size: 100%;
+}
+
+div.febrero caption {
+	font-weight: bold;
+	text-align: right;
+	font-size: 1.25em;
+}
+
+div.febrero td {
+	width: 3em;
+	border-top: none;
+	border-bottom: none;
+	padding-right: 5px;
+}
+
+div.febrero table {
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	text-align: right;
+	border-collapse: collapse;
+	border-right: none;
+}
+
+div.febrero th {
+	border-top: none;
+	border-bottom: none;
+	padding-right: 5px;
+}
+
+div.marzo {
+	padding: 10px 75px 10px 75px;
+	background-color: lightyellow;
+	display: block;
+	border: 1px solid black;
+	margin: 10px;
+	width: 25%;
+}
+
+div.marzo caption {
+	letter-spacing: 0.5em;
+	text-align: left;
+	padding-bottom: 5px;
+	font-size: 1.10em;
+}
+
+div.marzo table {
+	border-collapse: collapse;
+}
+
+div.marzo th {
+	width: 3em;
+}
+
+div.marzo td {
+	width: 4em;
+	text-align: left;
+	height: 4em;
+	font-size: 66.5%;
+	vertical-align: top;
+}
+
+address {
+	text-align: right;
+	font-weight: bold;
+	font-size: 2em;
+}
